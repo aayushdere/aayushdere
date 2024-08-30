@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushdere" alt="aayushdere" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/minions carryon" target="blank"><img src="https://img.shields.io/twitter/follow/minions carryon?logo=twitter&style=for-the-badge" alt="minions carryon" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/minions carryon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minions carryon" height="30" width="40" /></a>
